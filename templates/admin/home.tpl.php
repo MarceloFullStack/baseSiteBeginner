@@ -1,3 +1,6 @@
-<h3>pagina inicial template ADMIN</h3>
+<?php include __DIR__.'/../../templates/BASE/head.php'?>
 
-<a href="/">home</a>  <a href="/admin/pages">Admin Pages</a>
+    <h3>pagina inicial template ADMIN</h3>
+    <a href="/admin/pages">Admin Pages</a>
+
+<?php include __DIR__.'/../../templates/BASE/footer.php'?>
