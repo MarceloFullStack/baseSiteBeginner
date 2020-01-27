@@ -2,9 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba92fcf8-ff3a-48e9-992d-0a517296bccd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/admin/pages/routes.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/flash.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/ajax.tpl.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/routes.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin/routes.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap.php" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/BASE/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates/BASE/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/admin.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates/admin.tpl.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/admin/pages/create.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates/admin/pages/create.tpl.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/admin/pages/edit.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates/admin/pages/edit.tpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/admin/pages/index.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates/admin/pages/index.tpl.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/admin/pages/view.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates/admin/pages/view.tpl.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -106,7 +114,7 @@
       <workItem from="1580030821680" duration="280000" />
       <workItem from="1580031114785" duration="14385000" />
       <workItem from="1580123108306" duration="2400000" />
-      <workItem from="1580125811570" duration="3991000" />
+      <workItem from="1580125811570" duration="18860000" />
     </task>
     <servers />
   </component>
@@ -142,6 +150,14 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="1078" y="253" width="424" height="584" key="#com.intellij.ide.macro.MacrosDialog/0.27.1920.1053/1920.0.1280.1024@0.27.1920.1053" timestamp="1579961033402" />
+    <state x="768" y="271" width="374" height="562" key="#com.intellij.ide.util.MemberChooser" timestamp="1580131106531">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="768" y="271" width="374" height="562" key="#com.intellij.ide.util.MemberChooser/0.27.1920.1053/1920.0.1280.1024@0.27.1920.1053" timestamp="1580131106531" />
+    <state x="525" y="149" width="860" height="807" key="CommitChangelistDialog2" timestamp="1580130469285">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="525" y="149" width="860" height="807" key="CommitChangelistDialog2/0.27.1920.1053/1920.0.1280.1024@0.27.1920.1053" timestamp="1580130469285" />
     <state x="771" y="246" width="424" height="484" key="FileChooserDialogImpl" timestamp="1580031324526">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
@@ -194,18 +210,22 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state width="1234" height="344" key="GridCell.Tab.2.right/0.27.1920.1053/1920.0.1280.1024@0.27.1920.1053" timestamp="1580042181942" />
-    <state x="1235" y="478" width="399" height="149" key="NewPhpFileDialog" timestamp="1580049157981">
+    <state x="1235" y="478" width="399" height="149" key="NewPhpFileDialog" timestamp="1580133787543">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="1235" y="478" width="399" height="149" key="NewPhpFileDialog/0.27.1920.1053/1920.0.1280.1024@0.27.1920.1053" timestamp="1580049157981" />
+    <state x="1235" y="478" width="399" height="149" key="NewPhpFileDialog/0.27.1920.1053/1920.0.1280.1024@0.27.1920.1053" timestamp="1580133787543" />
     <state x="362" y="350" width="1350" height="730" key="SettingsEditor" timestamp="1580126379146">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="362" y="350" width="1350" height="730" key="SettingsEditor/0.27.1920.1053/1920.0.1280.1024@0.27.1920.1053" timestamp="1580126379146" />
-    <state width="498" height="446" key="SwitcherDM" timestamp="1580127989104">
+    <state width="498" height="446" key="SwitcherDM" timestamp="1580133310886">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="498" height="446" key="SwitcherDM/0.27.1920.1053/1920.0.1280.1024@0.27.1920.1053" timestamp="1580127989104" />
+    <state width="498" height="446" key="SwitcherDM/0.27.1920.1053/1920.0.1280.1024@0.27.1920.1053" timestamp="1580133310886" />
+    <state x="100" y="125" width="1720" height="855" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1580137875626">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="100" y="125" width="1720" height="855" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.27.1920.1053/1920.0.1280.1024@0.27.1920.1053" timestamp="1580137875626" />
     <state x="1096" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1580125813151">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>

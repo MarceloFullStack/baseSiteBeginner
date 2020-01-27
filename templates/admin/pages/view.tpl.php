@@ -1,5 +1,3 @@
-<?php include __DIR__.'/../../BASE/footer.php'?>
-
 //view
 <h2 class="mb-5">Ver detalhes da pagina</h2>
 
@@ -32,5 +30,3 @@
 </p>
 
 <a class="btn btn-secondary" href="/admin/pages">voltar</a>
-
-<?php include __DIR__.'/../../BASE/footer.php'?>

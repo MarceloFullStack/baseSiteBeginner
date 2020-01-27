@@ -36,4 +36,4 @@
 
 
     </div>
-<?php include __DIR__.'/../templates/BASE/footer.php'?>
+<?php require __DIR__.'/../templates/BASE/footer.php'?>

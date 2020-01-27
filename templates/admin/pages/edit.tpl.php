@@ -1,5 +1,3 @@
-<?php include __DIR__.'/../../BASE/footer.php'?>
-
 //edit <h2>Editar pagina</h2>
 
 <form action="" method="post">
@@ -29,5 +27,3 @@
     <hr>
 </form>
 <a class="btn btn-secondary" href="/admin/pages/1">voltar</a>
-
-<?php include __DIR__.'/../../BASE/footer.php'?>

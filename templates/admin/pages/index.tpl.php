@@ -1,5 +1,3 @@
-<?php include __DIR__.'/../../BASE/footer.php'?>
-
 <table class="table table-hover">
     <thead>
     <tr>
@@ -21,5 +19,3 @@
 <h2 class="mb-5">admin pages</h2>
 
 <a class="btn btn-secondary" href="/admin/pages/create">Criar Novo</a>
-
-<?php include __DIR__.'/../../BASE/footer.php'?>

@@ -1,6 +1,4 @@
-<?php include __DIR__.'/../../BASE/footer.php'?>
-
-//create 
+//create
 <h2 class="mb-5">Criar nova pagina</h2>
 
     <form action="" method="post">
@@ -33,4 +31,3 @@
 <a class="btn btn-secondary" href="/admin/pages">voltar</a>
 
 
-<?php include __DIR__.'/../../BASE/footer.php'?>
