@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba92fcf8-ff3a-48e9-992d-0a517296bccd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/templates/admin/pages/create.tpl.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/routes.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin/routes.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/BASE/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates/BASE/footer.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/BASE/head.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates/BASE/head.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/admin/pages/create.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates/admin/pages/create.tpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/admin/pages/edit.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates/admin/pages/edit.tpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/admin/pages/view.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates/admin/pages/view.tpl.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +106,7 @@
       <workItem from="1580030821680" duration="280000" />
       <workItem from="1580031114785" duration="14385000" />
       <workItem from="1580123108306" duration="2400000" />
-      <workItem from="1580125811570" duration="1839000" />
+      <workItem from="1580125811570" duration="3991000" />
     </task>
     <servers />
   </component>
@@ -204,10 +202,18 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="362" y="350" width="1350" height="730" key="SettingsEditor/0.27.1920.1053/1920.0.1280.1024@0.27.1920.1053" timestamp="1580126379146" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1580127989104">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.27.1920.1053/1920.0.1280.1024@0.27.1920.1053" timestamp="1580127989104" />
     <state x="1096" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1580125813151">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="1096" y="381" key="com.intellij.ide.util.TipDialog/0.27.1920.1053/1920.0.1280.1024@0.27.1920.1053" timestamp="1580125813151" />
+    <state x="1084" y="227" width="700" height="530" key="recent.locations.popup" timestamp="1580128025201">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="1084" y="227" width="700" height="530" key="recent.locations.popup/0.27.1920.1053/1920.0.1280.1024@0.27.1920.1053" timestamp="1580128025201" />
     <state x="1103" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1580034826625">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
