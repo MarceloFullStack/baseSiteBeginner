@@ -2,18 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba92fcf8-ff3a-48e9-992d-0a517296bccd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/admin/pages/routes.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/flash.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/ajax.tpl.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/routes.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin/routes.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap.php" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/BASE/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates/BASE/footer.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/admin.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates/admin.tpl.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/admin/pages/create.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates/admin/pages/create.tpl.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/admin/pages/edit.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates/admin/pages/edit.tpl.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/admin/pages/index.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates/admin/pages/index.tpl.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/admin/pages/view.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates/admin/pages/view.tpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/BASE/head.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates/BASE/head.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/admin/home.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates/admin/home.tpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/admin/pages.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates/admin/pages.tpl.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
