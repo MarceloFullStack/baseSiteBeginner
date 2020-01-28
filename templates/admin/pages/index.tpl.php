@@ -7,13 +7,13 @@
     </tr>
     </thead>
     <tbody>
-    <tr>
-        <td>1</td>
-        <td><a href="/admin/pages/1">pagina inicial</a></td>
-        <td class="text-right">
-            <a href="/admin/pages/1" class="btn btn-primary btn-sm">ver</a>
-        </td>
-    </tr>
+    <?php foreach ($data['pages'] as $key => $pages) { ?>
+        <tr>
+            <td><?= $pages['id'] ?></td>
+            <td><a href="/admin/pages/<?= $pages['id'] ?>"><?= $pages['title'] ?></a></td>
+            <td class="text-right"><a href="/admin/pages/<?= $pages['id'] ?>" class="btn btn-primary btn-sm">ver</a></td>
+        </tr>
+    <?php } ?>
     </tbody>
 </table>
 <h2 class="mb-5">admin pages</h2>

@@ -1,9 +1,11 @@
 <?php
 
-$pages_all = function (){
+$pages_all = function () use ($conn){
 
     //buscar todas as paginas
 
+    $result = $conn->query('select * from pages');
+    return $result->fetch_all(MYSQLI_ASSOC);
 };
 /**
  * @param $id

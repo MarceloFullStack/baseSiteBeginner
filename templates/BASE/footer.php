@@ -7,6 +7,7 @@
     <script src="/resources/trix/trix.js"></script>
     <script src="/resources/pnotify/pnotify.custom.min.js"></script>
 
+
     <script><?php flash();?> </script>
 
 
